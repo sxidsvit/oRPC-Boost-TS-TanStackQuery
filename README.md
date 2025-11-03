@@ -91,7 +91,7 @@ Connect with the project maintainer:
 
 #### 🙏 Acknowledgements
 
-# Special thanks to [Jan Marshal](https://www.youtube.com/@janmarshalcoding) for his invaluable contributions.
+##### Special thanks to [Jan Marshal](https://www.youtube.com/@janmarshalcoding) for his invaluable contributions.
 
 ## Project Structure
 
